@@ -23,3 +23,4 @@ pour l'ingestion & l'extraction de données depuis des intances google comme :
 
 # important 
 https://blog.silasstulz.com/improve-your-psycopg2-executions-for-postgresql-in-python-5cfbd3a0e119
+https://www.startdataengineering.com/post/why-how-idempotent-data-pipeline/
